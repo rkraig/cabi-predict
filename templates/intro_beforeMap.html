@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+<!-- If IE use the latest rendering engine -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<!-- Set the page to the width of the device and set the zoon level -->
+<meta name="viewport" content="width = device-width, initial-scale = 1">
+<title>CaBi Predict</title>
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<style>
+.jumbotron{
+    background-color:#2E2D88;
+    color:white;
+}
+/* Adds borders for tabs */
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.nav-tabs {
+    margin-bottom: 0;
+}
+</style>
+
+</head>
+<body>
+
+
+
+<div class="container">
+<!-- page-header adds space aroundtext and enlarges it. It also adds an underline at the end -->
+<div class="page-header">
+<h1>Capital Bikeshare Predictor</h1>
+</div>
+</div>
+
+<div class="container">
+
+<!-- well surrounds the text with a rounded border and gray background. The size can be changed with well-sm or well-lg -->
+<div class="well well-sm">
+<p>This app predicts near-term usage of Capital Bikeshare. Input a time frame (from present, in minutes) and click on a station to see the likelihood of outages at that station.</p>
+</div>
+
+<form id='userinfoform_lulu' method='post' action='index' > <!-- action is the URL you want to move to next-->
+   <p>
+   Window: <input type='text' name='myWindow' />
+   </p>
+   <p>
+   <input type='submit' value='Enter' /> <!-- value is the text that will appear on the button. -->
+   </p>
+</form>
+
+</div>
+
+
+
+<div class="container">
+<img src="{{ url_for('static', filename='cabiScavHunt_201509.jpg') }}" width="800">
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</body>
+</html>
