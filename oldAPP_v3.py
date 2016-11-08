@@ -138,27 +138,44 @@ nowPredictors['DOY'] = nowDT.timetuple().tm_yday
 nowPredictors['hour'] = nowDT.hour
 nowPredictors['isHol'] = 1 if ((todayIsAHoliday) and (nowPredictors['DOW'] <= 5)) else 0
 nowPredictors['year'] = nowDT.year
-useCase = {k:[nowPredictors[k]] for k in nowPredictors}
+secondTestCase = {k:[nowPredictors[k]] for k in nowPredictors}
 
-#print(testcase)
-#print(useCase)
+print(testcase)
+print(secondTestCase)
 
-df = pd.DataFrame(useCase).reindex_axis(app.vars['predictorCols'],axis=1)
+df = pd.DataFrame(secondTestCase).reindex_axis(app.vars['predictorCols'],axis=1)
 demandPredictions = app.vars['model'].predict(df)
 app.vars['stations']['bikeDemand'] = demandPredictions[0][0::2]
 app.vars['stations']['dockDemand'] = demandPredictions[0][1::2]
+#print(app.vars['stations'])
 
+#app.vars['gjS'] = df_to_geojson(app.vars['stations'],['terminalname','name','bikeDemand','dockDemand'],
+#                                    lat='lat', lon='long')
+
+
+#print(df)
+#print(predictions.shape)
+
+#app.vars['demand'] = app.vars['model'].predict
+#print(app.vars['gjS']['features'][:2])
+#print(app.vars['stations'].head()) 
+#print(type(app.vars['stations']['terminalname'].iloc[0]))
+app.questions={}
+
+app.nquestions=len(app.questions)
+#should be 3
 
 def pOutage(muX,muY,nowX):
     return sum([poisson.pmf(x,muX)*poisson.cdf(x-nowX,muY) 
                 for x in range(nowX,1+poisson.ppf(0.9995,muX).astype(int))])
 
 
-@app.route('/',methods=['GET','POST'])
+@app.route('/index',methods=['GET','POST'])
 def index():
+    nquestions=app.nquestions
     if request.method == 'GET':
         if (app.vars['firstTime']):
-            return render_template('intro_beforeMap.html')
+            return render_template('intro_beforeMap.html')#,num=nquestions)
         else:
             try:
                 rtDF = getRealTimeDockStatusData(app.vars['url2scrapeRT'])
@@ -177,20 +194,44 @@ def index():
                                                  'pEmpty','pFull'],
                                               lat='lat', lon='long')
                 return render_template('withMap.html',num=app.vars['window'],
+                                   #mapFileName=app.vars['bikeMap_Path'],
                                    gjFC_StationData=sendGJ)
             except:    
                 #print('fail')
                 return render_template('withoutMap.html',num=app.vars['window'],
+                                   #mapFileName=app.vars['bikeMap_Path'],
                                    gjFC_StationData=app.vars['gjS'])
     else:
         #request was a POST
         tempInput = request.form['myWindow']
         app.vars['firstTime']=False
         try:
-            app.vars['window'] = min([abs(int(float(tempInput))),60]) # limit one hour
+            app.vars['window'] = min([int(tempInput),60]) # limit one hour
         except:
-            app.vars['window'] = 15 # default to 15 minutes, if input cannot be converted to numeric
-        return redirect('/')
+            app.vars['window'] = 15 # default to 15 minutes, if bad input
+        #myBikes=folium.Map(location=[38.894,-77.04],zoom_start=14,
+        #            tiles='Stamen Terrain',width=960,height=720)
+        #print(datetime.datetime.now())
+        #for sDex in range(len(app.vars['stations'])):
+        #    row = app.vars['stations'].iloc[sDex]
+        #    ss = row['terminalname']
+            #ss = app.vars['stations']['terminalname'].iloc[sDex]
+            #row = app.vars['stations'].loc[ss]
+        #    lat = row['lat']
+        #    lon = row['long']
+            #name = row['name']
+            #bikeDemand = app.vars['predictions'][0,2*sDex]
+            #dockDemand = app.vars['predictions'][0,2*sDex+1]
+            #folium.CircleMarker([lat,lon],radius=50,
+            #        popup=str(ss)+': d_bph:'+str(bikeDemand)+', d_dph:'+str(dockDemand),
+            #        color='#ff86cc',fill_color='#3186cc',
+            #        ).add_to(myBikes)
+        #print(datetime.datetime.now())
+        #dt_suffix = ''.join([x for x in str(datetime.datetime.now()) if x in '0123456789'])
+        #app.vars['bikeMap_Path'] = './static/bikeMap-'+dt_suffix+'.html'
+        #myBikes.save(app.vars['bikeMap_Path'])
+        #print('just saved map')
+        return redirect('/index')
 
 
 if __name__ == "__main__":

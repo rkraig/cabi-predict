@@ -46,10 +46,10 @@
 
 <!-- well surrounds the text with a rounded border and gray background. The size can be changed with well-sm or well-lg -->
 <div class="well well-sm">
-<p>This app predicts near-term usage of Capital Bikeshare. Input a time frame (from present, in minutes) and click on a station to see the likelihood of outages at that station.</p>
+<p>This app uses a random forest regression to predict expected customer and bicycle arrival rates at each station, plus a Poisson model to predict the probability of station outages within a short time window. Input a time window (in minutes), then click on a station for the results:</p>
 </div>
 
-<form id='userinfoform_lulu' method='post' action='index' > <!-- action is the URL you want to move to next-->
+<form id='userinfoform_lulu' method='post' action='' > <!-- action is the URL you want to move to next-->
    <p>
    Window: <input type='text' name='myWindow' />
    </p>
@@ -87,16 +87,17 @@ var map = L.map('mapid').setView([38.894, -77.040], 14);
         
         function makePopups(feature,layer) {
             if (feature.properties && feature.properties.name && feature.properties.terminalname) {
-                layer.bindPopup(feature.properties.name 
-                                + '<br/>' + 'station number: ' + feature.properties.terminalname
-                                + '<br/>' + '#Bikes: ' + feature.properties.nbbikes
-                                + '<br/>' + '#EmptyDocks: ' + feature.properties.nbemptydocks
-                                + '<br/>' + 'Bike Demand per Hour: ' + feature.properties.bikeDemand
-                                + '<br/>' + 'Dock Demand per Hour: ' + feature.properties.dockDemand
+                layer.bindPopup(feature.properties.name + ' (' + feature.properties.terminalname + ')'
+                                + '<br/>' + 'Bikes: ' + feature.properties.nbbikes
+                                + '<br/>' + 'EmptyDocks: ' + feature.properties.nbemptydocks
+                                + '<br/>' + 'Bike Demand per Hour: ' + feature.properties.bikeDemand.toFixed(2)
+                                + '<br/>' + 'Dock Demand per Hour: ' + feature.properties.dockDemand.toFixed(2)
                                 //+ '<br/>' + 'ppf0005_B: ' + feature.properties.ppf0005_B
                                 //+ '<br/>' + 'ppf0005_D: ' + feature.properties.ppf0005_D
-                                + '<br/>' + 'P(Empty ' + {{num}} + ' minutes from now): ' + feature.properties.pEmpty
-                                + '<br/>' + 'P(Full ' + {{num}} + ' minutes from now): ' + feature.properties.pFull);
+                                + '<br/>' + 'P (Empty in ' + {{num}} + ' minutes): ' 
+                                + feature.properties.pEmpty.toFixed(3)
+                                + '<br/>' + 'P(Full in ' + {{num}} + ' minutes): ' 
+                                + feature.properties.pFull.toFixed(3));
             }
         }
         

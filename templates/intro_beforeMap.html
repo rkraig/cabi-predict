@@ -44,10 +44,10 @@
 
 <!-- well surrounds the text with a rounded border and gray background. The size can be changed with well-sm or well-lg -->
 <div class="well well-sm">
-<p>This app predicts near-term usage of Capital Bikeshare. Input a time frame (from present, in minutes) and click on a station to see the likelihood of outages at that station.</p>
+<p>This app uses a random forest regression to predict expected customer and bicycle arrival rates at each station, plus a Poisson model to predict the probability of station outages within a short time window. Input a time window (in minutes), then click on a station for the results:</p>
 </div>
 
-<form id='userinfoform_lulu' method='post' action='index' > <!-- action is the URL you want to move to next-->
+<form id='userinfoform_lulu' method='post' action='' > <!-- action is the URL you want to move to next-->
    <p>
    Window: <input type='text' name='myWindow' />
    </p>
