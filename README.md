@@ -1,7 +1,7 @@
 # cabiPredict
 Capital Bikeshare Predictions
 
-This project is a demand and outage predictor for Capital Bikeshare. I take dock status and trip history, weather and calendar data, then fit a random forest regression model to estimate the customer demand for bikeshare as a function of ten predictors:
+This project is a demand and outage predictor for Capital Bikeshare. I take dock status and trip history, weather and calendar data, then fit a random forest regression model to estimate the customer demand for bikes and docks at each bikeshare station as a function of ten predictors:
 - Time of Day
 - Day of Week
 - Day of Year
