@@ -1,0 +1,359 @@
+terminalname,name,lat,long,el,juris,neigh,firstUse,lastUse
+31000,20th & Bell St,38.8561,-77.0512,50.8,Arlington,Crystal City,9/20/2010,12/31/2015
+31001,18th & Eads St.,38.85725,-77.05332,45.2,Arlington,Crystal City,4/1/2013,12/31/2015
+31002,20th & Crystal Dr,38.856214,-77.049828,39.3,Arlington,Crystal City,9/20/2010,12/31/2015
+31003,15th & Crystal Dr,38.86017,-77.049593,38.4,Arlington,Crystal City,9/20/2010,12/31/2015
+31004,Aurora Hills Community Ctr/18th & Hayes St,38.857866,-77.05949,53.1,Arlington,Pentagon City,9/20/2010,12/31/2015
+31005,Pentagon City Metro / 12th & S Hayes St,38.862303,-77.059936,44.4,Arlington,Pentagon City,9/20/2010,12/31/2015
+31006,S Joyce & Army Navy Dr,38.8637,-77.0633,52.7,Arlington,Pentagon City,9/20/2010,12/31/2015
+31007,Crystal City Metro / 18th & Bell St,38.857063,-77.051141,53.3,Arlington,Crystal City,9/19/2010,12/31/2015
+31008,12th & Army Navy Dr,38.8629,-77.0528,31.7,Arlington,Pentagon City,9/21/2010,12/31/2015
+31009,27th & Crystal Dr,38.848441,-77.051516,27.3,Arlington,Potomac Yard,9/15/2010,12/31/2015
+31010,S Glebe & Potomac Ave,38.8426,-77.0502,23.5,Arlington,Potomac Yard,9/20/2010,12/31/2015
+31011,23rd & Crystal Dr,38.8533,-77.0498,35.3,Arlington,Crystal City,9/19/2010,12/31/2015
+31012,26th & S Clark St,38.850688,-77.05152,34.7,Arlington,Crystal City,9/20/2010,12/31/2015
+31013,23rd & Eads St,38.853531,-77.053509,41.8,Arlington,Crystal City,9/23/2010,12/31/2015
+31014,Lynn & 19th St North,38.897315,-77.070993,67.8,Arlington,Rosslyn,4/16/2011,12/31/2015
+31015,Rosslyn Metro / Wilson Blvd & Ft Myer Dr,38.8946,-77.072305,108.5,Arlington,Rosslyn,4/18/2011,12/31/2015
+31016,Clarendon Blvd & Pierce St,38.893648,-77.076701,176.7,Arlington,Rosslyn,4/16/2011,12/31/2015
+31017,Wilson Blvd & N Uhle St,38.891696,-77.0846,230.8,Arlington,Courthouse,11/10/2011,12/31/2015
+31018,N Rhodes & 16th St N,38.892164,-77.079375,167.2,Arlington,Courthouse,4/16/2011,12/31/2015
+31019,Wilson Blvd & N Edgewood St,38.889,-77.0925,246.7,Arlington,Clarendon,11/11/2011,12/31/2015
+31020,Wilson Blvd & Franklin Rd,38.8904,-77.0889,233.4,Arlington,Courthouse,12/1/2011,12/31/2015
+31021,Clarendon Blvd & N Fillmore St,38.8881,-77.09308,255.7,Arlington,Clarendon,11/22/2011,12/31/2015
+31022,Clarendon Metro / Wilson Blvd & N Highland St,38.88786,-77.094875,263.8,Arlington,Clarendon,11/22/2011,12/31/2015
+31023,Fairfax Dr & Wilson Blvd,38.885801,-77.097745,263,Arlington,Clarendon,4/27/2012,12/31/2015
+31024,Virginia Square Metro / N Monroe St & 9th St N,38.882788,-77.103148,255.9,Arlington,Ballston,2/17/2012,12/31/2015
+31025,Central Library / N Quincy St & 10th St N,38.88397,-77.10783,263.7,Arlington,Ballston,2/17/2012,12/31/2015
+31026,Washington Blvd & 10th St N,38.884734,-77.093485,259.7,Arlington,Clarendon,2/29/2012,12/31/2015
+31027,Key Blvd & N Quinn St,38.896015,-77.078107,155,Arlington,Rosslyn,4/23/2012,12/31/2015
+31028,N Veitch & Key Blvd,38.893241,-77.086045,230.6,Arlington,Courthouse,4/24/2012,12/31/2015
+31029,N Veitch  & 20th St N,38.896923,-77.086502,207.1,Arlington,Lyon Village,4/24/2012,12/31/2015
+31030,N Adams St & Lee Hwy,38.89593,-77.089006,229.3,Arlington,Lyon Village,4/25/2012,12/31/2015
+31031,15th & N Scott St,38.89054,-77.08095,181.9,Arlington,Courthouse,4/25/2012,12/31/2015
+31032,Washington Blvd & 7th St N,38.880834,-77.091129,256,Arlington,Lyon Park,5/1/2012,12/31/2015
+31033,Wilson Blvd & N Oakland St,38.8815,-77.10396,264.8,Arlington,Ballston,4/25/2012,12/31/2015
+31034,N Randolph St & Fairfax Dr,38.882629,-77.109366,262.3,Arlington,Ballston,4/27/2012,12/31/2015
+31035,N Quincy St & Glebe Rd,38.876393,-77.107735,268.9,Arlington,Ballston,4/27/2012,12/31/2015
+31036,George Mason Dr & Wilson Blvd,38.87887,-77.1207,265.2,Arlington,Bluemont,4/30/2012,12/31/2015
+31037,Ballston Metro / N Stuart & 9th St N,38.881044,-77.111768,266.1,Arlington,Ballston,4/30/2012,12/31/2015
+31038,Glebe Rd & 11th St N,38.883921,-77.116817,270.9,Arlington,Ballston,5/17/2012,12/31/2015
+31039,N Quincy St & Wilson Blvd,38.880151,-77.107673,272.9,Arlington,Ballston,5/29/2012,12/31/2015
+31040,Fairfax Dr & Kenmore St,38.884616,-77.10108,239.8,Arlington,Ballston,4/1/2013,12/31/2015
+31041,Prince St & Union St,38.803124,-77.040363,4.8,Alexandria,Old Town,8/27/2012,12/31/2015
+31042,Market Square / King St & Royal St,38.804718,-77.043363,30.5,Alexandria,Old Town,8/27/2012,12/31/2015
+31043,Saint Asaph St & Pendleton  St,38.810743,-77.044664,33.8,Alexandria,Old Town,8/27/2012,12/31/2015
+31044,King St & Patrick St,38.805317,-77.049883,44.4,Alexandria,Old Town,8/29/2012,12/31/2015
+31045,Commerce St & Fayette St,38.805648,-77.05293,31.9,Alexandria,Old Town,8/31/2012,12/31/2015
+31046,Henry St & Pendleton St,38.811456,-77.050276,45,Alexandria,Old Town,8/31/2012,12/31/2015
+31047,Braddock Rd Metro,38.814577,-77.052808,36.8,Alexandria,Old Town,8/29/2012,12/31/2015
+31048,King St Metro,38.805767,-77.06072,20.4,Alexandria,Carlyle,8/29/2012,12/31/2015
+31049,Utah St & 11th St N ,38.883669,-77.113905,270.2,Arlington,Ballston,7/17/2012,12/31/2015
+31050,Barton St & 10th St N,38.884961,-77.08777,215.3,Arlington,Lyon Park,9/4/2012,12/31/2015
+31051,Arlington Blvd & N Queen St,38.889365,-77.077294,146.9,Arlington,Courthouse,9/5/2012,12/31/2015
+31052,Potomac Ave & 35th St S,38.844015,-77.050537,25.9,Arlington,Potomac Yard,10/24/2012,12/31/2015
+31053,Columbia Pike & S Courthouse Rd,38.863833,-77.080319,201.2,Arlington,Penrose Square,3/28/2013,12/31/2015
+31054,Walter Reed Community Center / Walter Reed Dr & 16th St S,38.857803,-77.086733,193.3,Arlington,Penrose Square,3/28/2013,12/31/2015
+31055,28th St S & S Meade St,38.846222,-77.069275,18.4,Arlington,Arna Valley,3/28/2013,12/31/2015
+31056,S Troy St & 26th St S,38.847977,-77.075104,33.5,Arlington,Arna Valley,4/25/2013,12/31/2015
+31057,S Four Mile Run Dr & S Shirlington Rd,38.8444,-77.085931,53,Arlington,Shirlington,4/23/2013,12/31/2015
+31058,S Oakland St & Columbia Pike,38.860789,-77.09586,182.5,Arlington,Columbia Pike West,4/24/2013,12/31/2015
+31059,S Four Mile Run & Walter Reed Dr,38.84736,-77.095431,69.7,Arlington,Shirlington,7/3/2015,12/31/2015
+31060,S Arlington Mill Dr & Campbell Ave,38.84232,-77.089555,52.8,Arlington,Shirlington,4/24/2013,12/31/2015
+31061,S Kenmore & 24th St S,38.848454,-77.084918,90.5,Arlington,Shirlington,4/26/2013,12/31/2015
+31062,S George Mason Dr & 13th St S,38.854691,-77.100555,110.8,Arlington,Columbia Pike West,7/1/2013,12/31/2015
+31063,S George Mason Dr & Four Mile Run,38.852248,-77.105022,91.5,Arlington,Columbia Pike West,7/1/2013,12/31/2015
+31064,S Stafford & 34th St S,38.834108,-77.087323,196.2,Arlington,Fairlington,7/2/2013,12/31/2015
+31065,N Pershing Dr & Wayne St,38.880705,-77.08596,232.6,Arlington,Lyon Park,7/2/2013,12/31/2015
+31066,Columbia Pike & S Orme St,38.867262,-77.072315,152.1,Arlington,Columbia Pike East,7/1/2013,12/31/2015
+31067,Columbia Pike & S Walter Reed Dr,38.862478,-77.086599,196,Arlington,Penrose Square,8/27/2013,12/31/2015
+31068,Columbia Pike & S Dinwiddie St / Arlington Mill Community Center,38.856319,-77.11153,130.2,Arlington,Columbia Pike West,8/29/2013,12/31/2015
+31069,Pershing & N George Mason Dr,38.871822,-77.107906,264.4,Arlington,Glebe NFATC,8/29/2013,12/31/2015
+31070,Arlington Blvd & Fillmore St,38.873755,-77.089233,207.6,Arlington,Lyon Park,11/15/2013,12/31/2015
+31071,Long Bridge Park/Long Bridge Dr & 6th St S,38.86646,-77.04826,8.1,Arlington,Long Bridge,11/15/2013,12/31/2015
+31072,31st & Woodrow St S,38.837666,-77.09482,199.8,Arlington,Fairlington,12/17/2013,12/31/2015
+31073,Washington Blvd & Walter Reed Dr ,38.873219,-77.082104,178.1,Arlington,Lyon Park,12/17/2013,12/31/2015
+31074,TJ Cmty Ctr / 2nd St & S Old Glebe Rd,38.869418,-77.095596,201.3,Arlington,Glebe NFATC,12/13/2013,12/31/2015
+31075,Rolfe St & 9th St S,38.866471,-77.076131,150.1,Arlington,Columbia Pike East,3/12/2014,12/31/2015
+31076,Shirlington Transit Center / S Quincy & Randolph St,38.839912,-77.087083,74.1,Arlington,Shirlington,3/14/2014,12/31/2015
+31077,Iwo Jima Memorial/N Meade & 14th St N,38.88992,-77.071301,117.1,Arlington,Rosslyn,6/12/2014,12/31/2015
+31078,Arlington Blvd & S George Mason Dr/NFATC,38.869442,-77.104503,235,Arlington,Glebe NFATC,7/23/2014,12/31/2015
+31079,Lee Hwy & N Cleveland St,38.894941,-77.09169,230.2,Arlington,Lyon Village,7/24/2014,12/31/2015
+31080,Lee Hwy & N Scott St,38.897612,-77.080851,153.2,Arlington,Rosslyn,8/6/2014,12/31/2015
+31081,Duke St & John Carlyle St,38.804378,-77.060866,31.4,Alexandria,Carlyle,8/18/2014,12/31/2015
+31082,Eisenhower Ave & Mill Race Ln,38.801111,-77.068952,14.6,Alexandria,Carlyle,8/18/2014,12/31/2015
+31083,Potomac Greens Dr & Slaters Ln,38.82175,-77.047494,44.7,Alexandria,Del Ray,8/20/2014,12/31/2015
+31084,Ballenger Ave & Dulaney St,38.802677,-77.063562,38.2,Alexandria,Carlyle,8/18/2014,12/31/2015
+31085,Mount Vernon Ave & E Nelson Ave,38.820064,-77.057619,40.9,Alexandria,Del Ray,8/19/2014,12/31/2015
+31086,Mount Vernon Ave & E Del Ray Ave,38.82595,-77.058541,44.1,Alexandria,Del Ray,8/19/2014,12/31/2015
+31087,Monroe Ave & Leslie Ave,38.820932,-77.053096,47.5,Alexandria,Del Ray,8/20/2014,12/31/2015
+31088,Mount Vernon Ave & Kennedy St,38.833077,-77.059821,45.8,Alexandria,Del Ray,8/19/2014,12/31/2015
+31089,Court House Metro / 15th & N Uhle St ,38.890612,-77.084801,238.1,Arlington,Courthouse,8/28/2014,12/31/2015
+31090,6th & S Ball St,38.864702,-77.048672,15.2,Arlington,Long Bridge,9/17/2014,12/31/2015
+31091,S Joyce & 16th St S,38.859254,-77.063275,49.8,Arlington,Pentagon City,11/5/2014,12/31/2015
+31092,N Nelson St & Lee Hwy,38.895929,-77.105246,260.8,Arlington,Cherrydale,11/29/2014,12/31/2015
+31093,21st St N & N Pierce St,38.898984,-77.078317,150.6,Arlington,Rosslyn,11/26/2014,12/31/2015
+31094,Lee Hwy & N Kirkwood Rd,38.895377,-77.09713,180.4,Arlington,Lyon Village,1/16/2015,12/31/2015
+31095,Army Navy Dr & S Nash St,38.862467,-77.068242,95.3,Arlington,Pentagon City,4/8/2015,12/31/2015
+31096,S Walter Reed Dr & 8th St S,38.86612,-77.08787,204.9,Arlington,Penrose Square,6/3/2015,12/31/2015
+31100,19th St & Pennsylvania Ave NW,38.9003,-77.0429,64.5,Washington,Farragut Square,9/20/2010,12/31/2015
+31101,14th & V St NW,38.9176,-77.0321,104.6,Washington,U Street,9/17/2010,12/31/2015
+31102,11th & Kenyon St NW,38.929464,-77.027822,177.4,Washington,Columbia Heights,10/8/2010,12/31/2015
+31103,16th & Harvard St NW,38.926088,-77.036536,192.3,Washington,Columbia Heights,9/20/2010,12/31/2015
+31104,Adams Mill & Columbia Rd NW,38.922925,-77.042581,171.6,Washington,Adams Morgan,9/20/2010,12/31/2015
+31105,14th & Harvard St NW,38.9268,-77.0322,193.6,Washington,Columbia Heights,9/20/2010,12/31/2015
+31106,Calvert & Biltmore St NW,38.923203,-77.047637,139.6,Washington,Adams Morgan,9/1/2013,12/31/2015
+31107,Lamont & Mt Pleasant NW,38.9319,-77.0388,202.6,Washington,Columbia Heights,9/20/2010,12/31/2015
+31108,4th & M St SW,38.8767,-77.0178,8.7,Washington,Waterfront,9/20/2010,12/31/2015
+31109,7th & T St NW,38.9155,-77.0222,86.4,Washington,Shaw,9/20/2010,12/31/2015
+31110,20th St & Florida Ave NW,38.9154,-77.0446,110.8,Washington,Adams Morgan,9/20/2010,12/31/2015
+31111,10th & U St NW,38.9172,-77.0259,92,Washington,U Street,9/20/2010,12/31/2015
+31112,Harvard St & Adams Mill Rd NW,38.927872,-77.043358,68.1,Washington,Adams Morgan,10/14/2010,12/31/2015
+31113,Columbia Rd & Belmont St NW,38.920669,-77.04368,181,Washington,Adams Morgan,11/18/2011,12/31/2015
+31114,18th St & Wyoming Ave NW,38.918809,-77.041571,143.4,Washington,Adams Morgan,4/3/2013,12/31/2015
+31115,Columbia Rd & Georgia Ave NW,38.928156,-77.02344,191.3,Washington,Columbia Heights,12/8/2011,12/31/2015
+31116,California St & Florida Ave NW,38.917761,-77.04062,110.9,Washington,Adams Morgan,12/13/2011,12/31/2015
+31117,15th & Euclid St  NW,38.92333,-77.0352,189.9,Washington,Columbia Heights,5/6/2013,12/31/2015
+31118,3rd & Elm St NW,38.917622,-77.01597,98.8,Washington,Bloomingdale,7/23/2013,12/31/2015
+31119,14th & Belmont St NW,38.921074,-77.031887,143.7,Washington,U Street,10/2/2013,12/31/2015
+31120,10th & Florida Ave NW,38.920387,-77.025672,115.1,Washington,U Street,10/9/2013,12/31/2015
+31121,Calvert St & Woodley Pl NW,38.923583,-77.050046,113.6,Washington,Adams Morgan,9/20/2010,12/31/2015
+31200,Massachusetts Ave & Dupont Circle NW,38.9101,-77.0444,89.2,Washington,Dupont Circle,9/20/2010,12/31/2015
+31201,15th & P St NW,38.90985,-77.034438,84.7,Washington,Logan Circle,9/20/2010,12/31/2015
+31202,14th & R St NW,38.912682,-77.031681,101.4,Washington,Logan Circle,9/17/2010,12/31/2015
+31203,14th & Rhode Island Ave NW,38.9086,-77.0323,86.3,Washington,Logan Circle,9/20/2010,12/31/2015
+31204,20th & E St NW,38.8963,-77.045,52.2,Washington,Foggy Bottom South,9/20/2010,12/31/2015
+31205,21st & I St NW,38.9008,-77.047,67,Washington,GWU,9/20/2010,12/31/2015
+31206,19th & E Street NW,38.8952,-77.0436,35.2,Washington,Foggy Bottom South,9/20/2010,12/31/2015
+31207,Georgia Ave and Fairmont St NW,38.9249,-77.0222,178.4,Washington,Columbia Heights,9/20/2010,12/31/2015
+31208,M St & New Jersey Ave SE,38.8763,-77.0037,16.1,Washington,Navy Yard,9/17/2010,12/31/2015
+31209,1st & N St  SE,38.8743,-77.0057,16.8,Washington,Navy Yard,9/20/2010,12/31/2015
+31211,Kennedy Center,38.895184,-77.054845,30.1,Washington,Kennedy Center,10/7/2010,12/31/2015
+31212,21st & M St NW,38.90534,-77.046774,58.1,Washington,West End,9/20/2010,12/31/2015
+31213,17th & K St NW,38.90276,-77.03863,53.9,Washington,Farragut Square,9/21/2010,12/31/2015
+31214,17th & Corcoran St NW,38.9121,-77.0387,80.8,Washington,Dupont Circle,9/23/2010,12/31/2015
+31215,Georgetown Harbor / 30th St NW,38.902221,-77.059219,11.6,Washington,Georgetown Waterfront,10/5/2010,12/31/2015
+31216,14th St & New York Ave NW,38.899632,-77.031686,50.3,Washington,McPherson Square,9/30/2010,12/31/2015
+31217,USDA / 12th & Independence Ave SW,38.887237,-77.028226,33.7,Washington,L'Enfant,10/5/2010,12/31/2015
+31218,L'Enfant Plaza / 7th & C St SW,38.886266,-77.022241,24.3,Washington,L'Enfant,10/6/2010,12/31/2015
+31219,10th St & Constitution Ave NW,38.893028,-77.026013,7,Washington,Penn Quarter,10/7/2010,12/31/2015
+31220,US Dept of State / Virginia Ave & 21st St NW,38.894919,-77.046587,40.8,Washington,Foggy Bottom South,10/9/2010,12/31/2015
+31221,18th & M St NW,38.904742,-77.041606,56.3,Washington,Farragut Square,10/7/2010,12/31/2015
+31222,New York Ave & 15th St NW,38.8991,-77.0337,51,Washington,McPherson Square,10/9/2010,12/31/2015
+31223,Convention Center / 7th & M St NW,38.90572,-77.022264,86.6,Washington,Convention Center,10/9/2010,12/31/2015
+31224,19th & L St NW,38.903407,-77.043648,55.5,Washington,Farragut Square,10/18/2010,12/31/2015
+31225,C & O Canal & Wisconsin Ave NW,38.90375,-77.06269,48.1,Washington,Georgetown Waterfront,10/18/2010,12/31/2015
+31226,34th St & Wisconsin Ave NW,38.916442,-77.0682,196.1,Washington,Glover Park,10/15/2010,12/31/2015
+31227,13th St & New York Ave NW,38.900283,-77.029822,50,Washington,McPherson Square,10/18/2010,12/31/2015
+31228,8th & H St NW,38.8997,-77.023086,45.2,Washington,Chinatown,10/8/2010,12/31/2015
+31229,New Hampshire Ave & T St NW,38.91554,-77.03818,90.5,Washington,U Street,10/15/2010,12/31/2015
+31230,Metro Center / 12th & G St NW,38.898364,-77.027869,36.4,Washington,Chinatown,5/13/2011,12/31/2015
+31231,14th & D St NW / Ronald Reagan Building,38.894514,-77.031617,10.6,Washington,Penn Quarter,4/20/2011,12/31/2015
+31232,7th & F St NW / National Portrait Gallery,38.897324,-77.022322,42,Washington,Chinatown,4/29/2011,12/31/2015
+31233,17th & K St NW / Farragut Square,38.902061,-77.038322,57.5,Washington,Farragut Square,4/29/2011,12/31/2015
+31234,20th & O St NW / Dupont South,38.908905,-77.04478,83.7,Washington,Dupont Circle,10/19/2010,12/31/2015
+31235,19th St & Constitution Ave NW,38.8923,-77.0436,17.2,Washington,Foggy Bottom South,10/16/2010,12/31/2015
+31236,37th & O St NW / Georgetown University,38.90774,-77.071652,137.4,Washington,Georgetown,10/25/2010,12/31/2015
+31237,25th St & Pennsylvania Ave NW,38.903827,-77.053485,59.1,Washington,West End,10/29/2010,12/31/2015
+31238,14th & G St NW,38.898069,-77.031823,41.4,Washington,McPherson Square,11/8/2010,12/31/2015
+31239,17th & Rhode Island Ave NW,38.906602,-77.038785,67.3,Washington,Farragut Square,11/18/2011,12/31/2015
+31240,Ohio Dr & West Basin Dr SW / MLK & FDR Memorials,38.88412,-77.04657,10,Washington,Tidal Basin,3/16/2012,12/31/2015
+31241,Thomas Circle,38.9059,-77.0325,83.1,Washington,Logan Circle,11/19/2011,12/31/2015
+31242,18th St & Pennsylvania Ave NW,38.89968,-77.041539,59.8,Washington,Farragut Square,11/29/2011,12/31/2015
+31243,Maryland & Independence Ave SW,38.887299,-77.018939,14.6,Washington,L'Enfant,1/27/2012,12/31/2015
+31244,4th & E St SW,38.88412,-77.017445,16.6,Washington,L'Enfant,12/1/2011,12/31/2015
+31245,7th & R St NW / Shaw Library,38.912719,-77.022155,78.4,Washington,Shaw,11/29/2011,12/31/2015
+31246,M St & Pennsylvania Ave NW,38.905126,-77.056887,42.8,Washington,Georgetown,12/21/2011,12/31/2015
+31247,Jefferson Dr & 14th St SW,38.888553,-77.032429,30.5,Washington,L'Enfant,3/16/2012,12/31/2015
+31248,Smithsonian / Jefferson Dr & 12th St SW,38.888767,-77.02858,31.1,Washington,L'Enfant,4/2/2012,12/31/2015
+31249,Jefferson Memorial,38.879819,-77.037413,12.2,Washington,Tidal Basin,5/2/2012,12/31/2015
+31250,20th & L St NW,38.903584,-77.044789,48.9,Washington,Farragut Square,6/25/2012,12/31/2015
+31251,12th & L St NW,38.903819,-77.0284,85.8,Washington,McPherson Square,6/25/2012,12/31/2015
+31252,21st St & Pennsylvania Ave NW,38.901539,-77.046564,73,Washington,GWU,6/27/2012,12/31/2015
+31253,19th & K St NW,38.902204,-77.04337,71.3,Washington,Farragut Square,6/27/2012,12/31/2015
+31254,15th & K St NW,38.902,-77.03353,63.5,Washington,McPherson Square,7/2/2012,12/31/2015
+31255,24th & N St NW,38.9066,-77.05152,62.1,Washington,West End,7/6/2012,12/31/2015
+31256,10th & E St NW,38.895914,-77.026064,18.5,Washington,Penn Quarter,7/12/2012,12/31/2015
+31257,22nd & I St NW / Foggy Bottom,38.90088,-77.048911,58.2,Washington,GWU,7/16/2012,12/31/2015
+31258,Lincoln Memorial,38.888251,-77.049426,22.1,Washington,Tidal Basin,10/3/2012,12/31/2015
+31259,20th St & Virginia Ave NW,38.894722,-77.045128,32.8,Washington,Foggy Bottom South,1/31/2013,12/31/2015
+31260,23rd & E St NW ,38.896104,-77.049882,62.9,Washington,Foggy Bottom South,1/31/2013,12/31/2015
+31261,21st St & Constitution Ave NW,38.892459,-77.046567,21.3,Washington,Foggy Bottom South,1/31/2013,12/31/2015
+31262,11th & F St NW,38.897857,-77.026975,34.8,Washington,Chinatown,2/4/2013,12/31/2015
+31263,11th & K St NW,38.90268,-77.02674,67.4,Washington,Convention Center,2/15/2013,12/31/2015
+31264,6th St & Indiana Ave NW,38.894573,-77.01994,27.9,Washington,Judiciary Square,4/3/2013,12/31/2015
+31265,5th St & Massachusetts Ave NW,38.90093,-77.018677,46.9,Washington,Convention Center,5/6/2013,12/31/2015
+31266,11th & M St NW,38.905607,-77.027137,90.5,Washington,Convention Center,4/3/2013,12/31/2015
+31267,17th St & Massachusetts Ave NW,38.908142,-77.038359,73.4,Washington,Dupont Circle,5/6/2013,12/31/2015
+31268,12th & U St NW,38.916787,-77.028139,92.6,Washington,U Street,6/14/2013,12/31/2015
+31269,3rd St & Pennsylvania Ave SE,38.887378,-77.001955,82.6,Washington,Capitol Hill,7/23/2013,12/31/2015
+31270,8th & D St NW,38.894851,-77.02324,17.6,Washington,Penn Quarter,7/23/2013,12/31/2015
+31271,Constitution Ave & 2nd St NW/DOL,38.892275,-77.013917,16.1,Washington,Judiciary Square,7/30/2013,12/31/2015
+31272,Washington & Independence Ave SW/HHS,38.88731,-77.01397,10.6,Washington,L'Enfant,8/2/2013,12/31/2015
+31273,Hains Point/Buckeye & Ohio Dr SW,38.878433,-77.03023,8,Washington,Tidal Basin,11/8/2013,12/31/2015
+31274,MLK Library/9th & G St NW,38.898404,-77.024281,37.6,Washington,Chinatown,7/31/2014,12/31/2015
+31275,New Hampshire Ave & 24th St NW,38.901755,-77.051084,60.6,Washington,GWU,8/6/2014,12/31/2015
+31276,15th & L St NW,38.90381,-77.034931,61.4,Washington,McPherson Square,10/7/2014,12/31/2015
+31277,17th & G St NW,38.89841,-77.039624,54.4,Washington,Farragut Square,10/7/2014,12/31/2015
+31278,18th & R St NW,38.912648,-77.041834,86.6,Washington,Dupont Circle,11/10/2014,12/31/2015
+31279,19th & G St NW,38.898412,-77.043182,61.6,Washington,Farragut Square,2/4/2015,12/31/2015
+31280,11th & S St NW,38.913761,-77.027025,85,Washington,Shaw,4/8/2015,12/31/2015
+31281,8th & O St NW,38.90864,-77.02277,92.3,Washington,Shaw,7/29/2015,12/31/2015
+31300,Van Ness Metro / UDC,38.944551,-77.063896,249.1,Washington,Van Ness,9/24/2010,12/31/2015
+31301,Ward Circle / American University,38.938736,-77.087171,377.9,Washington,Tenleytown,9/26/2010,12/31/2015
+31302,Wisconsin Ave & Newark St NW,38.934881,-77.072755,375.7,Washington,Tenleytown,9/25/2010,12/31/2015
+31303,Tenleytown / Wisconsin Ave & Albemarle St NW,38.947607,-77.079382,388.8,Washington,Tenleytown,10/15/2010,12/31/2015
+31304,36th & Calvert St NW / Glover Park,38.922581,-77.070334,260.2,Washington,Glover Park,11/8/2010,12/31/2015
+31305,Connecticut Ave & Newark St NW / Cleveland Park,38.934267,-77.057979,215.9,Washington,Cleveland Park,10/10/2010,12/31/2015
+31306,39th & Calvert St NW / Stoddert,38.922649,-77.077271,304.5,Washington,Glover Park,2/10/2012,12/31/2015
+31307,3000 Connecticut Ave NW / National Zoo,38.930282,-77.055599,220.9,Washington,Cleveland Park,12/21/2011,12/31/2015
+31308,39th & Veazey St NW,38.943837,-77.077078,372.9,Washington,Tenleytown,2/11/2013,12/31/2015
+31309,Fessenden St & Wisconsin Ave NW,38.954812,-77.082426,323.2,Washington,Friendship Heights,2/11/2013,12/31/2015
+31310,Connecticut & Nebraska Ave NW,38.955016,-77.069956,314,Washington,Friendship Heights,4/25/2013,12/31/2015
+31312,Wisconsin Ave & O St NW,38.90849,-77.063586,91.5,Washington,Georgetown,4/25/2013,12/31/2015
+31313,Connecticut Ave & Tilden St NW,38.941154,-77.062036,250.3,Washington,Van Ness,12/13/2013,12/31/2015
+31314,34th & Water St NW,38.903582,-77.067786,14.5,Washington,Georgetown Waterfront,7/9/2014,12/31/2015
+31315,McKinley St & Connecticut Ave NW,38.96497,-77.075946,327,Washington,Friendship Heights,10/15/2014,12/31/2015
+31400,Georgia & New Hampshire Ave NW,38.936043,-77.024649,188.8,Washington,Petworth South,9/17/2010,12/31/2015
+31401,14th St & Spring Rd NW,38.9375,-77.0328,166.5,Washington,Petworth South,9/20/2010,12/31/2015
+31402,14th St Heights / 14th & Crittenden St NW,38.947774,-77.032818,196.8,Washington,Petworth North,9/26/2010,12/31/2015
+31403,5th & Kennedy St NW,38.956595,-77.019815,204.9,Washington,Petworth North,4/12/2013,12/31/2015
+31404,9th & Upshur St NW,38.9418,-77.0251,188.2,Washington,Petworth South,12/6/2011,12/31/2015
+31405,Georgia Ave & Emerson St NW,38.949662,-77.027333,183.4,Washington,Petworth North,4/13/2013,12/31/2015
+31406,14th & Upshur St NW,38.942016,-77.032652,156.9,Washington,Petworth South,4/12/2013,12/31/2015
+31407,14th St & Colorado Ave NW,38.956432,-77.032947,254.9,Washington,Petworth North,4/12/2013,12/31/2015
+31408,Takoma Metro,38.975219,-77.016855,273,Washington,Takoma Metro,2/19/2014,12/31/2015
+31411,Georgia & Missouri Ave NW,38.961339,-77.027855,292.8,Washington,Petworth North,8/25/2015,12/31/2015
+31500,4th & W St NE,38.919077,-77.000648,97.8,Washington,Eckington,9/16/2010,12/31/2015
+31501,12th & Newton St NE,38.933668,-76.991016,173,Washington,Brookland,10/5/2010,12/31/2015
+31502,John McCormack Dr & Michigan Ave NE,38.9346,-76.9955,156.2,Washington,Brookland,9/20/2010,12/31/2015
+31503,Florida Ave & R St NW,38.9126,-77.0135,74.5,Washington,Bloomingdale,9/24/2010,12/31/2015
+31504,10th & Monroe St NE,38.932514,-76.992889,165.7,Washington,Brookland,10/16/2010,12/31/2015
+31505,Eckington Pl & Q St NE,38.910972,-77.00495,77,Washington,Eckington,10/14/2010,12/31/2015
+31506,1st & Rhode Island Ave NW,38.915417,-77.012289,82.4,Washington,Bloomingdale,12/6/2011,12/31/2015
+31507,1st & Washington Hospital Center NW,38.928743,-77.012457,190,Washington,Washington Hospital Center,2/14/2012,12/31/2015
+31508,Gallaudet / 8th St & Florida Ave NE,38.90509,-76.9941,76.4,Washington,NoMa Gallaudet,7/11/2012,12/31/2015
+31509,New Jersey Ave & R St NW,38.912659,-77.017669,76.5,Washington,Shaw,5/14/2013,12/31/2015
+31510,18th St & Rhode Island Ave NE,38.927095,-76.978924,145.9,Washington,Brookland,5/30/2013,12/31/2015
+31511,12th & Irving St NE,38.928644,-76.990955,157.4,Washington,Brookland,5/30/2013,12/31/2015
+31512,Neal St & Trinidad Ave NE,38.903732,-76.987211,73.4,Washington,Atlas,6/14/2013,12/31/2015
+31513,Rhode Island Ave & V St NE,38.918155,-77.004746,173.1,Washington,Eckington,7/30/2013,12/31/2015
+31514,Hamlin & 7th St NE,38.927497,-76.997194,162.9,Washington,Brookland,8/16/2013,12/31/2015
+31515,Fort Totten Metro,38.952369,-77.002721,178.2,Washington,Fort Totten,2/19/2014,12/31/2015
+31516,Rhode Island Ave Metro,38.920682,-76.995876,123.9,Washington,Eckington,2/24/2014,12/31/2015
+31517,Union Market/6th St & Neal Pl NE,38.908008,-76.996985,90.3,Washington,NoMa Gallaudet,11/19/2014,12/31/2015
+31518,New York Ave & Hecht Ave NE,38.9156,-76.9837,82.2,Washington,NoMa Gallaudet,11/12/2015,12/31/2015
+31600,5th & K St NW,38.90304,-77.019027,54,Washington,Convention Center,9/20/2010,12/31/2015
+31601,19th & East Capitol St SE,38.8896,-76.9769,55.5,Washington,Stadium,9/20/2010,12/31/2015
+31602,Park Rd & Holmead Pl NW,38.9308,-77.0315,188.9,Washington,Columbia Heights,9/20/2010,12/31/2015
+31603,1st & M St NE,38.9057,-77.0056,41.4,Washington,NoMa Gallaudet,9/20/2010,12/31/2015
+31604,3rd & H St NW,38.899408,-77.015289,43.6,Washington,Judiciary Square,9/21/2010,12/31/2015
+31605,3rd & D St SE,38.8851,-77.0023,69.6,Washington,Capitol Hill,9/22/2010,12/31/2015
+31606,Potomac & Pennsylvania Ave SE,38.8803,-76.9862,65.5,Washington,Navy Yard,9/22/2010,12/31/2015
+31607,14th & D St SE,38.884,-76.9861,77.6,Washington,Stadium,9/22/2010,12/31/2015
+31608,8th & Eye St SE / Barracks Row,38.8792,-76.9953,60.7,Washington,Navy Yard,9/24/2010,12/31/2015
+31609,6th & Water St SW / SW Waterfront,38.87675,-77.02127,11.4,Washington,Waterfront,10/13/2010,12/31/2015
+31610,Eastern Market / 7th & North Carolina Ave SE,38.886952,-76.996806,86.2,Washington,Capitol Hill,9/29/2010,12/31/2015
+31611,13th & H St NE,38.9003,-76.9882,41.4,Washington,Atlas,10/8/2010,12/31/2015
+31612,D St & Maryland Ave NE,38.894758,-76.997114,76.2,Washington,Capitol Hill,2/24/2012,12/31/2015
+31613,Eastern Market Metro / Pennsylvania Ave & 7th St SE,38.884,-76.995397,75.2,Washington,Capitol Hill,10/6/2010,12/31/2015
+31614,11th & H St NE,38.899983,-76.991383,42.3,Washington,Atlas,12/12/2011,12/31/2015
+31615,6th & H St NE,38.899972,-76.998347,34.3,Washington,Atlas,12/12/2011,12/31/2015
+31616,3rd & H St NE,38.900412,-77.001949,44.4,Washington,Union Station,10/14/2010,12/31/2015
+31617,Bladensburg Rd & Benning Rd NE,38.900413,-76.982872,47.5,Washington,Atlas,10/27/2010,12/31/2015
+31618,4th & East Capitol St NE,38.889955,-77.000349,90.1,Washington,Capitol Hill,10/29/2010,12/31/2015
+31619,Lincoln Park / 13th & East Capitol St NE ,38.890461,-76.988355,89,Washington,Stadium,10/25/2010,12/31/2015
+31620,5th & F St NW,38.897222,-77.019347,43.9,Washington,Judiciary Square,10/9/2010,12/31/2015
+31621,4th & D St NW / Judiciary Square,38.895344,-77.016106,35.3,Washington,Judiciary Square,6/25/2011,12/31/2015
+31622,13th & D St NE,38.894832,-76.987633,77,Washington,Stadium,10/26/2010,12/31/2015
+31623,Columbus Circle / Union Station,38.89696,-77.00493,53.9,Washington,Union Station,10/26/2010,12/31/2015
+31624,North Capitol St & F St NW,38.897446,-77.009888,36.4,Washington,Union Station,10/26/2010,12/31/2015
+31625,3rd & G St SE,38.881185,-77.001828,52.1,Washington,Navy Yard,7/17/2011,12/31/2015
+31626,15th St & Massachusetts Ave SE,38.88732,-76.983569,78.3,Washington,Stadium,12/22/2011,12/31/2015
+31627,M St & Delaware Ave NE,38.905707,-77.003041,45.3,Washington,NoMa Gallaudet,2/15/2013,12/31/2015
+31628,1st & K St SE,38.87861,-77.006004,27.7,Washington,Navy Yard,2/8/2012,12/31/2015
+31629,8th & East Capitol St NE,38.889988,-76.995193,81.9,Washington,Capitol Hill,5/14/2013,12/31/2015
+31630,15th & East Capitol St NE,38.889908,-76.983326,78.9,Washington,Stadium,5/14/2013,12/31/2015
+31631,8th & F St NE,38.897274,-76.994749,51.7,Washington,Atlas,5/14/2013,12/31/2015
+31632,15th & F St NE,38.897195,-76.983575,44.3,Washington,Stadium,5/30/2013,12/31/2015
+31633,Independence Ave & L'Enfant Plaza SW/DOE,38.887312,-77.025762,30.4,Washington,L'Enfant,8/6/2013,12/31/2015
+31634,3rd & Tingey St SE,38.87501,-77.0024,13.1,Washington,Navy Yard,10/2/2013,12/31/2015
+31635,Potomac Ave & 8th St SE,38.876737,-76.994468,46.1,Washington,Navy Yard,10/9/2013,12/31/2015
+31636,New Jersey Ave & N St NW/Dunbar HS,38.90706,-77.015231,83.2,Washington,Convention Center,11/5/2013,12/31/2015
+31637,North Capitol St & G Pl NE,38.899703,-77.008911,26.6,Washington,Union Station,12/13/2013,12/31/2015
+31638,1st & H St NW,38.900358,-77.012108,35.8,Washington,Union Station,2/18/2014,12/31/2015
+31639,2nd & G St NE,38.89967,-77.003666,33.1,Washington,Union Station,6/18/2015,12/31/2015
+31640,Maryland Ave & E St NE,38.8961,-76.9929,71.3,Washington,Atlas,11/10/2015,12/31/2015
+31700,Good Hope & Naylor Rd SE,38.8601,-76.9672,279.1,Washington,Hillcrest,10/12/2010,12/31/2015
+31701,Branch & Pennsylvania Ave SE,38.8692,-76.9599,160.2,Washington,Hillcrest,6/29/2011,12/31/2015
+31702,Randle Circle & Minnesota Ave SE,38.878,-76.9607,74.6,Washington,Greenway,9/25/2010,12/31/2015
+31703,Minnesota Ave Metro/DOES,38.897063,-76.947446,50.5,Washington,EOTR NE,9/20/2010,12/31/2015
+31704,Nannie Helen Burroughs & Minnesota Ave NE,38.901385,-76.941877,22.1,Washington,EOTR NE,10/5/2010,12/31/2015
+31705,Benning Branch Library,38.894,-76.947974,54.1,Washington,EOTR NE,10/12/2010,12/31/2015
+31706,Fairfax Village,38.86559,-76.952103,266.8,Washington,Hillcrest,7/27/2011,12/31/2015
+31707,Benning Rd & East Capitol St NE / Benning Rd Metro,38.889935,-76.93723,77.1,Washington,EOTR NE,12/22/2011,12/31/2015
+31708,Anacostia Ave & Benning Rd NE / River Terrace ,38.896544,-76.96012,16.9,Washington,EOTR NE,12/22/2011,12/31/2015
+31709,34th St & Minnesota Ave SE,38.884085,-76.957461,53.7,Washington,Greenway,6/4/2013,9/17/2015
+31710,Nannie Helen Burroughs Ave & 49th St NE,38.898536,-76.931862,45.7,Washington,EOTR NE,11/9/2013,12/31/2015
+31711,Deanwood Rec Center,38.908473,-76.933099,37.3,Washington,EOTR NE,11/11/2013,12/31/2015
+31712,Oklahoma Ave & D St NE,38.894474,-76.974828,16.7,Washington,Stadium,9/11/2015,12/31/2015
+31800,Alabama & MLK Ave SE,38.843222,-76.999388,173.7,Washington,Congress Heights,6/4/2013,12/31/2015
+31801,Anacostia Metro,38.862669,-76.994637,33.2,Washington,Anacostia,9/22/2010,12/31/2015
+31802,Good Hope Rd & MLK Ave SE,38.867373,-76.988039,17.4,Washington,Anacostia,9/20/2010,12/31/2015
+31803,Good Hope Rd & 14th St SE,38.866611,-76.985238,33.6,Washington,Anacostia,5/3/2012,12/31/2015
+31804,Anacostia Library,38.865784,-76.9784,82.5,Washington,Anacostia,10/24/2010,12/31/2015
+31805,Pennsylvania & Minnesota Ave SE,38.873057,-76.971015,42,Washington,Greenway,10/8/2010,12/31/2015
+31806,Congress Heights Metro,38.844711,-76.987823,181.6,Washington,Congress Heights,12/22/2011,12/31/2015
+31807,Pleasant St & MLK Ave SE,38.863897,-76.990037,47.8,Washington,Anacostia,6/4/2013,12/31/2015
+32000,Norfolk Ave & Fairmont St,38.988562,-77.096539,350,Montgomery,Bethesda,9/27/2013,12/31/2015
+32001,Fenton St & New York Ave ,38.985404,-77.023082,336.1,Montgomery,Silver Spring,9/28/2013,12/31/2015
+32002,Bethesda Ave & Arlington Rd,38.981103,-77.097426,313.7,Montgomery,Bethesda,9/27/2013,12/31/2015
+32003,Montgomery Ave & Waverly St ,38.983838,-77.09221,349.7,Montgomery,Bethesda,10/20/2013,12/31/2015
+32004,Fallsgrove Blvd & Fallsgrove Dr,39.096312,-77.192672,462.6,Montgomery,Shady Grove Hospital,9/29/2013,12/31/2015
+32005,Traville Gateway Dr & Gudelsky Dr,39.093783,-77.202501,450.6,Montgomery,Shady Grove Hospital,9/29/2013,12/31/2015
+32006,13th St & Eastern Ave,38.987,-77.029417,326.6,Montgomery,Silver Spring,9/27/2013,12/31/2015
+32007,E Montgomery Ave & Maryland Ave,39.084125,-77.151291,440.4,Montgomery,Rockville,9/27/2013,12/31/2015
+32008,Cordell & Norfolk Ave,38.98954,-77.098029,337.8,Montgomery,Bethesda,9/27/2013,12/31/2015
+32009,Frederick Ave & Horners Ln,39.094772,-77.145213,421.1,Montgomery,Rockville,9/27/2013,12/31/2015
+32010,Philadelphia & Maple Ave,38.98128,-77.011336,206,Montgomery,Takoma Park,9/27/2013,12/31/2015
+32011,Maple & Ritchie Ave,38.983627,-77.006311,177.5,Montgomery,Takoma Park,9/27/2013,12/31/2015
+32012,Silver Spring Metro/Colesville Rd & Wayne Ave,38.99521,-77.02918,319.3,Montgomery,Silver Spring,9/27/2013,12/31/2015
+32013,Montgomery & East Ln,38.983525,-77.095367,328,Montgomery,Bethesda,9/27/2013,12/31/2015
+32014,Friendship Hts Metro/Wisconsin Ave & Wisconsin Cir,38.961763,-77.085998,306.6,Montgomery,Friendship Village,9/27/2013,12/31/2015
+32015,Crabbs Branch Way & Redland Rd,39.120045,-77.156985,446.3,Montgomery,Derwood,10/18/2013,12/31/2015
+32016,Fallsgrove Dr & W Montgomery Ave,39.099376,-77.188014,451.2,Montgomery,Shady Grove Hospital,10/18/2013,12/31/2015
+32017,Monroe St & Monroe Pl,39.082779,-77.148827,422.5,Montgomery,Rockville,11/1/2013,12/31/2015
+32018,Needwood Rd & Eagles Head Ct,39.123513,-77.15741,448.7,Montgomery,Derwood,10/18/2013,12/31/2015
+32019,East West Hwy & Blair Mill Rd,38.990249,-77.02935,319.2,Montgomery,Silver Spring,10/30/2013,12/31/2015
+32020,Crabbs Branch Way & Calhoun Pl,39.107709,-77.152072,442.6,Montgomery,Derwood,10/19/2013,12/31/2015
+32021,47th & Elm St,38.982456,-77.091991,340.9,Montgomery,Bethesda,10/19/2013,12/31/2015
+32022,Garland Ave & Walden Rd,39.000578,-77.00149,270.1,Montgomery,Clifton Park,10/29/2013,12/31/2015
+32023,Montgomery College/W Campus Dr & Mannakee St,39.095661,-77.159048,424.9,Montgomery,Rockville,10/19/2013,12/31/2015
+32024,Fenton St & Gist Ave,38.989724,-77.023854,348.4,Montgomery,Silver Spring,10/31/2013,12/31/2015
+32025,Carroll & Westmoreland Ave,38.975,-77.01121,283.6,Montgomery,Takoma Park,10/29/2013,12/31/2015
+32026,Carroll & Ethan Allen Ave,38.977933,-77.006472,293.1,Montgomery,Takoma Park,10/29/2013,12/31/2015
+32027,Battery Ln & Trolley Trail,38.992375,-77.100104,322.5,Montgomery,Bethesda,10/25/2013,12/31/2015
+32028,Norfolk & Rugby Ave,38.990639,-77.100239,329,Montgomery,Bethesda,10/25/2013,12/31/2015
+32029,Offutt Ln & Chevy Chase Dr,38.977093,-77.094589,323.5,Montgomery,Bethesda,10/25/2013,12/31/2015
+32030,Broschart & Blackwell Rd,39.102099,-77.200322,463.1,Montgomery,Shady Grove Hospital,10/29/2013,12/31/2015
+32031,Taft St & E Gude Dr,39.094103,-77.132954,407.7,Montgomery,Rockville,10/27/2013,12/31/2015
+32032,Fleet St & Ritchie Pkwy,39.076331,-77.141378,394.4,Montgomery,Rockville,10/27/2013,12/31/2015
+32033,Piccard & W Gude Dr,39.102212,-77.177091,446.4,Montgomery,Derwood,10/27/2013,12/31/2015
+32034,Ripley & Bonifant St,38.992679,-77.029457,330.4,Montgomery,Silver Spring,10/30/2013,12/31/2015
+32035,Georgia Ave & Spring St,38.999388,-77.031555,340.8,Montgomery,Silver Spring,10/31/2013,12/31/2015
+32036,Fenton St & Ellsworth Dr ,38.997033,-77.025608,334.6,Montgomery,Silver Spring,10/30/2013,12/31/2015
+32037,King Farm Blvd & Pleasant Dr,39.114688,-77.171487,477.5,Montgomery,Derwood,11/1/2013,12/31/2015
+32038,King Farm Blvd & Piccard Dr,39.110314,-77.182669,484.9,Montgomery,Derwood,11/6/2013,12/31/2015
+32039,Old Georgetown Rd & Southwick St,38.999634,-77.109647,361.8,Montgomery,Bethesda,11/13/2013,12/31/2015
+32040,Friendship Blvd & Willard Ave,38.96115,-77.088659,286.4,Montgomery,Friendship Village,11/13/2013,12/31/2015
+32041,Medical Center Dr & Key West Ave,39.103091,-77.196442,461.8,Montgomery,Shady Grove Hospital,1/9/2014,12/31/2015
+32042,Shady Grove Hospital,39.097636,-77.196636,470,Montgomery,Shady Grove Hospital,1/9/2014,12/31/2015
+32043,Veterans Pl & Pershing Dr ,38.997445,-77.023894,337.7,Montgomery,Silver Spring,2/8/2014,12/31/2015
+32044,Rockville Metro East,39.085394,-77.145803,411.2,Montgomery,Rockville,2/23/2014,12/31/2015
+32045,Shady Grove Metro West,39.119765,-77.166093,465.5,Montgomery,Derwood,4/19/2014,12/31/2015
+32046,River Rd & Landy Ln,38.964992,-77.103381,242,Montgomery,Friendship Village,4/8/2014,12/31/2015
+32047,Rockville Metro West,39.084379,-77.146866,425,Montgomery,Rockville,4/18/2014,12/31/2015
+32048,Bethesda Metro,38.984691,-77.094537,350.8,Montgomery,Bethesda,4/30/2014,12/31/2015
+32049,Washington Adventist U / Flower Ave & Division St,38.986743,-77.000035,237.9,Montgomery,Takoma Park,9/5/2014,12/31/2015
+32050,Spring St & Second Ave,38.997653,-77.034499,333,Montgomery,Silver Spring,11/20/2014,12/31/2015
+44036,S Abingdon St & 36th St S,38.835139,-77.094306,171.4,Arlington,Fairlington,4/23/2013,6/29/2015
