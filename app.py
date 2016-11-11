@@ -5,7 +5,7 @@ import pandas as pd
 import datetime
 import holidays
 #import glob
-#import os
+import os
 import json
 import requests
 from bs4 import BeautifulSoup
@@ -194,4 +194,5 @@ def index():
 
 
 if __name__ == "__main__":
-    app.run()
+    myPort = int(os.environ.get('PORT',33507))
+    app.run(host='0.0.0.0',port=myPort)
