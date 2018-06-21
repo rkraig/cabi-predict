@@ -1,5 +1,6 @@
 # cabiPredict
-Capital Bikeshare Predictions
+
+## Capital Bikeshare Predictions
 
 This project is a demand and outage predictor for Capital Bikeshare. I take dock status and trip history, weather and calendar data, then fit a random forest regression model to estimate the customer demand for bikes and docks at each bikeshare station as a function of ten predictors:
 - Time of Day
@@ -14,3 +15,10 @@ This project is a demand and outage predictor for Capital Bikeshare. I take dock
 - Snow depth
 
 I demonstrate this model with a customer-facing app that predicts CaBi demand and station outages in the immediate future. This app scrapes real-time dock status and weather data to form a feature vector, estimates customer demand for bikes and docks using the random forest, then computes outage probabilities with a Poisson model.
+
+## App
+
+https://cabi-predict.herokuapp.com/
+
+(Update 2018: I see that the leaflet.js map of prediction output data has now broken on heroku... I haven't figured out why.)
+
