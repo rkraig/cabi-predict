@@ -1,4 +1,4 @@
-# cabiPredict
+# cabi-predict
 
 ## Capital Bikeshare: Predictions of Near-Term Supply and Demand
 
