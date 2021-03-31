@@ -2,7 +2,7 @@ Flask==0.10.1
 dill==0.2.1
 holidays==0.5
 requests==2.11.1
-lxml==3.6.4
+lxml==4.6.3
 beautifulsoup4==4.5.1
 gunicorn==19.3.0
 Jinja2==2.7.2
